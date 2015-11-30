@@ -1,0 +1,28 @@
+.title{
+	color:red;
+	font-size:20px;
+}
+.text{
+	color:blue;
+}
+.description{
+	background-color: green;
+}
+.background{
+	background-image: url(https://38.media.tumblr.com/8532fff79925c630d5c361560cf8f717/tumblr_njxejpmnrT1s2yegdo1_r1_400.gif);
+}
+.image{
+	width: 400px;
+	position: relative;
+	left: 20px;
+}
+
+}
+.circ1{
+	stroke: red;
+	fill: blue;
+	stroke-width: 5;
+	r:200;
+	cx:300;
+	cy:300;
+}
